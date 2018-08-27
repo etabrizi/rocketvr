@@ -45,7 +45,7 @@ class Rocket extends React.Component {
             }, 100);
         };
 
-        if (item.active === true) {
+        if (item.active) {
 
             this.props.animations[`fadeOut${item.key}`].setValue(1)
             Animated.timing(this.props.animations[`fadeOut${item.key}`], {
