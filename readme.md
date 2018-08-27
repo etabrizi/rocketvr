@@ -1,6 +1,6 @@
 # React 360 Project - Rocket Attack
 
-http://etabrizi.co.uk/rocketattack/
+http://etabrizi.co.uk/rocketvr/
 
 
 A little game built with React 360. 
