@@ -1,0 +1,215 @@
+{
+    "rockets": [
+        {
+            "active": true,
+            "key": "a",
+            "position": [
+                0,
+                1,
+                -300
+            ],
+            "duration": 13000,
+            "delay": 1500
+        },
+        {
+            "active": true,
+            "key": "b",
+            "position": [
+                -50,
+                1,
+                -500
+            ],
+            "duration": 16000,
+            "delay": 2000
+        },
+        {
+            "active": true,
+            "key": "c",
+            "position": [
+                -200,
+                1,
+                -100
+            ],
+            "duration": 15000,
+            "delay": 5000
+        },
+        {
+            "active": true,
+            "key": "d",
+            "position": [
+                -400,
+                1,
+                -500
+            ],
+            "duration": 15000,
+            "delay": 5000
+        },
+        {
+            "active": true,
+            "key": "e",
+            "position": [
+                -200,
+                1,
+                -400
+            ],
+            "duration": 16000,
+            "delay": 7000
+        },
+        {
+            "active": true,
+            "key": "f",
+            "position": [
+                -250,
+                1,
+                200
+            ],
+            "duration": 15000,
+            "delay": 7000
+        },
+        {
+            "active": true,
+            "key": "g",
+            "position": [
+                100,
+                1,
+                -200
+            ],
+            "duration": 13000,
+            "delay": 7500
+        },
+        {
+            "active": true,
+            "key": "h",
+            "position": [
+                200,
+                1,
+                500
+            ],
+            "duration": 19000,
+            "delay": 9000
+        },
+        {
+            "active": true,
+            "key": "i",
+            "position": [
+                100,
+                1,
+                -400
+            ],
+            "duration": 13000,
+            "delay": 11000
+        },
+        {
+            "active": true,
+            "key": "j",
+            "position": [
+                300,
+                1,
+                -200
+            ],
+            "duration": 14000,
+            "delay": 13000
+        },
+        {
+            "active": true,
+            "key": "k",
+            "position": [
+                0,
+                1,
+                -300
+            ],
+            "duration": 12000,
+            "delay": 14000
+        },
+        {
+            "active": true,
+            "key": "l",
+            "position": [
+                200,
+                1,
+                -150
+            ],
+            "duration": 13000,
+            "delay": 17000
+        },
+        {
+            "active": true,
+            "key": "m",
+            "position": [
+                -200,
+                1,
+                -400
+            ],
+            "duration": 17000,
+            "delay": 18000
+        },
+        {
+            "active": true,
+            "key": "n",
+            "position": [
+                -100,
+                1,
+                -200
+            ],
+            "duration": 8000,
+            "delay": 19000
+        },
+        {
+            "active": true,
+            "key": "o",
+            "position": [
+                100,
+                1,
+                400
+            ],
+            "duration": 14000,
+            "delay": 20000
+        },
+        {
+            "active": true,
+            "key": "p",
+            "position": [
+                0,
+                1,
+                150
+            ],
+            "duration": 11000,
+            "delay": 21000
+        },
+        {
+            "active": true,
+            "key": "q",
+            "position": [
+                100,
+                1,
+                -300
+            ],
+            "duration": 10000,
+            "delay": 22000
+        },
+        {
+            "active": true,
+            "key": "r",
+            "position": [
+                200,
+                1,
+                -200
+            ],
+            "duration": 12000,
+            "delay": 24000
+        },
+        {
+            "active": true,
+            "key": "s",
+            "position": [
+                -100,
+                1,
+                150
+            ],
+            "duration": 12000,
+            "delay": 26000
+        }
+    ],
+    "achivement": 68,
+    "timer": 59
+}
