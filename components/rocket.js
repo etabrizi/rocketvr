@@ -67,6 +67,8 @@ class Rocket extends React.Component {
 
     render() {
 
+        const { activeLight, nonActiveLight, animations } = this.props
+
         let rocket = this.props.rockets.map((item, i) => {
 
             return (
@@ -75,16 +77,16 @@ class Rocket extends React.Component {
                 }}>
                     <AnimatedModel
                         source={{
-                            obj: asset(item.active ? this.props.activeLight : this.props.nonActiveLight)
+                            obj: asset(item.active ? activeLight : nonActiveLight)
                         }}
                         lit={true}
                         style={{
                             transform: [
                                 { translateX: item.position[0] },
-                                { translateY: this.props.animations[`anim${item.key}`] },
+                                { translateY: animations[`anim${item.key}`] },
                                 { translateZ: item.position[2] },
                             ],
-                            opacity: item.active ? 1 : this.props.animations[`fadeOut${item.key}`]
+                            opacity: item.active ? 1 : animations[`fadeOut${item.key}`]
                         }}
                     />
                 </VrButton>

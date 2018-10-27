@@ -182,6 +182,8 @@ export default class React3DView extends React.Component {
 
   render() {
 
+
+
     return (
       <View>
         {this.state.level === 'start' && <StartScreen highScore={this.state.highScore} startGame={this.startGame} />}
